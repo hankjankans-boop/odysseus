@@ -1,6 +1,5 @@
 # Odysseus
-
-```
+git clone https://github.com/pewdiepie-archdaemon/odysseus.git```
 ───────────────────────────────────────────────
  ⊹ ࣪ ˖ ૮( ˶ᵔ ᵕ ᵔ˶ )っ  Odysseus vers. 1.0
 ───────────────────────────────────────────────
