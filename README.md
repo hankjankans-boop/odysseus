@@ -2,7 +2,10 @@
 
 ```
 ───────────────────────────────────────────────
- ⊹ ࣪ ˖ ૮( ˶ᵔ ᵕ ᵔ˶ )っ  Odysseus vers. 1.0
+ ⊹ ࣪ ˖ ૮( ˶ᵔ ᵕ ᵔ˶ git clone https://github.com/pewdiepie-archdaemon/odysseus.git
+cd odysseus
+cp .env.example .env       # optional, but recommended for explicit defaults
+docker compose up -d --buildっ  Odysseus vers. 1.0
 ───────────────────────────────────────────────
 ```
 
